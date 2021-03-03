@@ -1,5 +1,5 @@
 # Landslide_Simulation
-A accurate landslide simulation!
+An accurate landslide simulation!
 <br>
 <br>
 Hold down mouse and move to create new rocks.
