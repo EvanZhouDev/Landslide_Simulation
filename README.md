@@ -1,7 +1,8 @@
 # Landslide_Simulation
 A accurate landslide simulation!
-
-Hold down mouse and move to create new rocks;
+<br>
+<br>
+Hold down mouse and move to create new rocks.
 
 First slider is the ground's slope.
 
